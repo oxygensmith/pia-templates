@@ -1,4 +1,4 @@
-Templates for Public Interest Alberta's CMS.
+# Templates for Public Interest Alberta's CMS #
 
 <b>pia-campaign-simple.html</b><br />
 <b>pia-campaign-fancy.html</b>

@@ -1,6 +1,6 @@
 Templates for Public Interest Alberta's CMS.
 
-<b>pia-campaign-simple.html</b>
+<b>pia-campaign-simple.html</b><br />
 <b>pia-campaign-fancy.html</b>
 
 New campaigns are Basic pages.
